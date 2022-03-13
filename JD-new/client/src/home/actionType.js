@@ -1,0 +1,4 @@
+export const AXIOS_START='AXIOS/START'
+export const AXIOS_SUCCESS='AXIOS/SUCCESS'
+export const AXIOS_FAIL='AXIOS/FAIL'
+export const CHANGE_INDEX='CHANGE/INDEX'
